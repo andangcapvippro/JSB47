@@ -1,0 +1,117 @@
+.to{
+    border: black solid 5px;
+    width: 99,8% ;
+    justify-content: space-between;
+    display: flex;
+    background-color: black;
+    background-image: inherit;
+    box-sizing: border-box;
+    border-radius: 1px;
+    
+    
+   
+
+}
+
+.to button{
+    border-radius: 1px;
+    background-color: black;
+    color: white;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 17px;
+    border: 0cap;
+    cursor: pointer;
+    font-family: "Lato", sans-serif;
+}
+.to button:hover {
+    color: black;
+    background-color: gainsboro;
+}
+.fa-magnifying-glass{
+        color: white;
+        border-radius: 1px;
+        justify-content: space-between;
+        display: flex;
+        width: 100%;
+}
+.puttuon:hover{
+    background-color: gainsboro;
+}
+.tol img{
+    width: 100%;
+   
+}
+.too{
+    display: flex;
+    justify-content: center;
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+}
+.tp h3{
+    position: absolute;
+    top: 590px;
+    display: flex;
+    color: white;
+    left: 610px;
+    font-size: 24px;
+}
+.tp p{
+    position: absolute;
+    top: 640px;
+    display: flex;
+    color: white;
+    left: 510px;
+}
+.tu h2{
+    font-family: "Segoe UI", Arial, sans-serif;
+    letter-spacing: 4px;
+    /* font-style: italic; */
+    padding-top: 40px;
+   text-align: center;}
+.tu p{
+    font-family: "Segoe UI", Arial, sans-serif;
+    letter-spacing: 4px;
+    /* font-style: italic; */
+    padding-top: 10px;
+   text-align: center;   }
+   .tu p{
+    color: gray;
+    
+}
+.lo{
+  padding-left: 250px;
+padding-right: 250px;
+text-align: justify;
+font-family: "Lato", sans-serif;
+font-size: 15px;
+line-height: 1.5;
+}
+.img0 img{
+    width: 150px;
+    
+}
+.img0{
+    display:flex;
+    justify-content: center; 
+    justify-content: space-evenly;
+    padding-top: 50px;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+    
+}
+
+
+
+
+
+   
+
+
+

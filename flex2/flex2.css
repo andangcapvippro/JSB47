@@ -1,0 +1,23 @@
+.bigg{
+    /* border: black solid 2px; */
+    width: 320px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    font-family: Muli, "Open Sans", sans-serif;
+    
+
+}
+.bigg1 img {
+    width: 25%;
+}
+.bigg1{
+    border: 1px rgb(238, 235, 235) solid;
+    display: flex;
+}
+.bigg1 p{
+    margin-left: 8px;
+}
+

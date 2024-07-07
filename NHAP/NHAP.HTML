@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Xem ví dụ</title>
+    <style type="text/css">
+        #father{
+            width:200px;
+            height:200px;
+            border:5px solid green;
+            background-image:url(../image/banana.png);
+        }
+        #child{
+            width:200px;
+            height:200px;
+            border:5px solid red;
+            background-image:inherit;
+            margin-left:300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="father">
+        <div id="child"></div>
+    </div>
+    <p>- Thuộc tính background-image của phần tử <u>#child</u> có giá trị là <u>inherit</u></p>
+    <p>&#8680; Nó sẽ kế thừa giá trị thuộc tính background-image từ phần tử cha của nó là <u>#father</u></p>
+    <p>&#8680; Cho nên giá trị thật sự của nó sẽ tương ứng với <u>url(../image/banana.png)</u></p>
+</body>
+</html>
